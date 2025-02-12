@@ -1,6 +1,6 @@
 # Praticando
 
-Descrição breve do que é o projeto. Explique a funcionalidade principal e o propósito do seu projeto.
+Descrição breve do meu projeto. Explique a funcionalidade principal e o propósito do seu projeto.
 
 ## Tabela de Conteúdos
 
